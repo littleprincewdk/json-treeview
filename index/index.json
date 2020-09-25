@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "json-treeview": "../json-treeview/json-treeview"
+  }
+}
